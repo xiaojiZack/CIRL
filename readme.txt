@@ -1,12 +1,4 @@
-t-4-t之间采样
-拉大稀疏奖励
-对于距离和速度增加干扰
-增加延迟
-0.0001
-0.005
-0.99
-40000
-1000
-0.001
-1.0
-很符合预期
+curriculum based imitation learning
+
+\\how to use
+run main.py
